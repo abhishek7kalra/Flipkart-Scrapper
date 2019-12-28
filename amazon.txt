@@ -1,0 +1,15 @@
+name:
+    css: span.a-size-large
+    type: Text
+author:
+    css: 'span.author a.a-link-normal, button.a-button-close'
+    type: Link
+year:
+    css: 'span.a-size-medium:nth-of-type(3)'
+    type: Text
+rating:
+    css: 'span.reviewCountTextLinkedHistogram a.a-popover-trigger'
+    type: Text
+price:
+    css: 'li.swatchElement.selected a.a-button-text'
+    type: Text
